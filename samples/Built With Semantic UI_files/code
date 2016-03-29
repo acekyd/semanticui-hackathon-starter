@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="ie"><![endif]-->
+<!--[if IE 9]><html class="ie9"><![endif]-->
+<!--[if gt IE 9]><!--><html><!--<![endif]-->
+    <head>
+        <title>Not found.</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="x-dns-prefetch-control" content="off">
+        <meta name="robots" content="noindex">
+        <meta name="msapplication-TileImage" content="//assets.tumblr.com/images/msfavicon.png?_v=3a50b115b27423ff4e48b682bf1d7951">
+        <link rel="shortcut icon" href="//assets.tumblr.com/images/favicons/favicon.ico?_v=a891a6916b745ae20be499f98db2f875">
+        <link rel="stylesheet" media="screen" href="//assets.tumblr.com/assets/styles/404.css?_v=33eaedcac2a06bc3b1ba373f01a4e5c4">
+    </head>
+    <body data-status-code="404">
+
+        <div id="fullscreen_post_bg" class="fullscreen_post_bg loading"></div>
+
+        <div class="logo_button_bar">
+            <div id="logo" class="tumblr_logo"><a href="//www.tumblr.com/" data-translation="tumblr">Tumblr</a></div>
+            <div class="buttons logged_in" id="logged_in_buttons">
+            </div>
+            <div class="buttons logged_out" id="logged_out_buttons">
+                <a class="chrome" href="https://www.tumblr.com/login" data-translation="log_in">Log in</a>
+                <a class="chrome blue" href="https://www.tumblr.com/register" data-translation="sign_up">Sign Up</a>
+            </div>
+            <div class="post_attribution no_attribution" id="post_attribution">
+                <a href="//www.tumblr.com" target="_blank" rel="nofollow" id="blog_name_link"><span data-translation="posted_by">Posted by</span> <strong id="blog_name"></strong></a>
+                <a href="//www.tumblr.com" target="_blank" rel="nofollow" class="post_avatar" id="blog_avatar_link"><img src="//assets.tumblr.com/images/transparent-pixel.png" alt="" id="blog_avatar"></a>
+            </div>
+            <div class="clear"></div>
+        </div>
+
+        <div class="content">
+            <div class="valign_outer">
+                <div class="valign_inner">
+                    <div class="l-container narrow_box">
+                        <h1 data-translation="heading">There's nothing here.</h1>
+                        <p data-translation="message">Whatever you were looking for doesn't currently exist at this address. Unless you were looking for this error page, in which case: Congrats! You totally found it.</p>
+
+                        <form method="get" action="//www.tumblr.com/search" id="search_form" class="search_form" role="search">
+                            <input type="hidden" name="referring_page" id="referring_page" value="404">
+                            <input type="hidden" name="scope" id="search_scope" value="all_of_tumblr">
+                            <div class="search_form_row">
+                                <div class="search_form_field">
+                                    <input tabindex="1" type="text" name="q" id="search_query" placeholder="Search Tumblr" value="" class="search_query popover_button " autocomplete="off" data-translation="search_tags">
+                                </div>
+                                <button type="submit" id="search_query_submit" class="search_query_submit" data-translation="search">Search</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript" language="javascript" src="//assets.tumblr.com/languages/errors.js?_v=a8001e647c472837c4d6b0087bb7b520"></script>
+        <script src="//assets.tumblr.com/assets/scripts/_t.js?_v=0019cba4b764ec6bee7ef15e04f57585"></script>
+        <script src="//assets.tumblr.com/assets/scripts/tumblr/error_page.js?_v=cb55f4fb0ddb1a76f27855743e766aff"></script>
+        <script src="//assets.tumblr.com/assets/scripts/pages/status.js?_v=5a4c6d600bbe4270fee166491697dd83"></script>
+
+    </body>
+</html>
