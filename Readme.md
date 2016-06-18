@@ -1,2 +1,2 @@
 # semantic-ui-layouts
-These are example layouts for the Semantic UI frontend framework
+:computer: :octocat: A hackathon boilerplate for laravel web applications. Start your hackathons without hassle.
