@@ -1,2 +1,2 @@
 # semantic-ui-layouts
-:computer: :octocat: A hackathon boilerplate for laravel web applications. Start your hackathons without hassle.
+:computer: :octocat: A Semantic UI hackathon boilerplate for your web applications. Start your hackathons without layout hassle.
